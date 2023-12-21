@@ -1,6 +1,7 @@
-base.html/
 src/
+base.html
 node_modules/
-package-lock.json/
-package.json/
-gulpfile.js/
+build/css/app.css
+package-lock.json
+package.json
+gulpfile.js
